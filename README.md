@@ -34,3 +34,14 @@ Execute the script using:
 ```bash
 python certi.py
 ```
+
+---
+
+## 🚀 Deployment
+You can run this project **locally** on any system with Python installed.
+
+---
+
+## 🔹Github Repository
+Clone or download the project from GitHub:
+https://github.com/Aysha022/Certificate_Automation/
