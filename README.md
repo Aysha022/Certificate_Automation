@@ -32,5 +32,5 @@ Ensure you have the following files in the project folder:
 ### 4️. **Run the python script**
 Execute the script using:
 ```bash
-python app.py
+python certi.py
 ```
